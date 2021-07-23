@@ -1,0 +1,1 @@
+Copy-Item -Recurse -Force .\dist\ ..\sengokuswap-interface\node_modules\@uniswap\sdk\
